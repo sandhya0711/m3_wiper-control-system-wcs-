@@ -4,8 +4,8 @@
 
 # Requriments
 
-# About the project WCS
-## Description
+## About the project WCS
+### Description
 *This Project is an __Wiper control (WCS) system__,a wiper control system for an automotive wiper controls the operational speed of a wiper in accordance with rain conditions.It useful in the automotive unit the main purpose of the system is to clean the windscreen sufficiently to provide suitable visibility at all times.
 
 ---
@@ -65,7 +65,7 @@ Threats
 
 *When new command is given without completing the current command it will not take current command 
 
-# Test plan and output 
+## Test plan and output 
 https://github.com/sandhya0711/m3_wiper-control-system-wcs-/blob/e877965323a372422320a2b060c80178828b4dec/7_Output/OUTPUT%20SIMULATION.mp4
 7_Output/OUTPUT SIMULATION.mp4
 
@@ -81,7 +81,6 @@ https://github.com/sandhya0711/m3_wiper-control-system-wcs-/blob/e877965323a3724
 | HLR3 | It shall seen speed of the wiper work |
 | HLR4 | It will stop the wiper |
 | HLR5 | It will stop the car |
-
 
 ### Low Level Requirements
 
