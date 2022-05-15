@@ -1,10 +1,10 @@
 # Table of content 
 
 1. About the 
-    1. Description
-    2. Identifying features
-    3. State of art
-    4. 5W’s & 1H and S.W.O.T analysis
+     1.  Description
+     2.  Identifying features
+     3.  State of art
+     4.  5W’s & 1H and S.W.O.T analysis
 2. Requirements
     1. High level requirements
     2. Low level requirements
@@ -118,16 +118,20 @@ Threats
 | LLR5.1 | If the User Button is pressed FIVTH times, the red LED will be off |
 
 
+
 # 3 Architecture
+
 * ##  i Behavioral Diagram
-    ![BD](https://github.com/sandhya0711/m3_wiper-control-system-wcs-/blob/fe6d54c170e235e0351a75a4e16fdec9fbab9c5b/2_Architecture/BEHAVIORAL%20DIAGRAM.png)
+
+*  ![BD](https://github.com/sandhya0711/m3_wiper-control-system-wcs-/blob/fe6d54c170e235e0351a75a4e16fdec9fbab9c5b/2_Architecture/BEHAVIORAL%20DIAGRAM.png)
+    
 * ## ii Structural Diagram
-    ![UML](https://github.com/sandhya0711/m3_wiper-control-system-wcs-/blob/fe6d54c170e235e0351a75a4e16fdec9fbab9c5b/2_Architecture/STRUCTURAL%20DIAGRAM.png)
+
+* ![UML](https://github.com/sandhya0711/m3_wiper-control-system-wcs-/blob/fe6d54c170e235e0351a75a4e16fdec9fbab9c5b/2_Architecture/STRUCTURAL%20DIAGRAM.png)
+* 
 ---
 
 # 4 Test plan and output
-
-### Test plan is created and verified
 
 ## HIGH LEVEL TEST PLAN
 
@@ -151,5 +155,4 @@ Threats
 | 04 | Check for Wiper off | USER BUTTON PRESS FOUR TIMES | Shall Off 3 LED's once anti-clockwise as per timers |  Shall off 3 LED's once anti-clockwise as per timers | ✅ |
 | 015 | Check for Stop | USER BUTTON PRESS FIVTH TIME  | RED LED will be off | RED LED will be off | ✅ |
 | 06 | Check for ENCRYPTION | 1/2/3/4  | 1244/1843/6789/5478 | 1244/1843/6789/5478 | ✅ |
-  
-
+ 
