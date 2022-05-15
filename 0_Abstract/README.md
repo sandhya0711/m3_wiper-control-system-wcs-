@@ -1,6 +1,5 @@
 ## Abstract
-
- * This Project is an __Wiper control (WCS) system__,a wiper control system for an automotive wiper controls the operational speed of a wiper in accordance with rain conditions.It useful in the automotive unit the main purpose of the system is to clean the windscreen sufficiently to provide suitable visibility at all times main theme of the project is when an car is start and in the bad weather condition like in rain and snow these system will be applicable.THe car is in that bad weather condition then these active by the user and work as per the condition.
+* This Project is an __Wiper control (WCS) system__,a wiper control system for an automotive wiper controls the operational speed of a wiper in accordance with rain conditions.It useful in the automotive unit the main purpose of the system is to clean the windscreen sufficiently to provide suitable visibility at all times main theme of the project is when an car is start and in the bad weather condition like in rain and snow these system will be applicable.THe car is in that bad weather condition then these active by the user and work as per the condition.
 
  Here when the user start the car it is in ACC position , and the weather is changed might be rain or snow then the wiper of the car will be activate/on by the user. And the rain condition is high then the speed of the wiper will be high.As per these the weather condition is normal then the wiper will be deactivate/off by the user and then the car will be stop.These will be the wiper control system (WCS) project.
 
