@@ -1,9 +1,10 @@
 # Table of content 
+
 1. About the 
     1. Description
-    1. Identifying features
-    1. State of art
-    1. 5W’s & 1H and S.W.O.T analysis
+    2. Identifying features
+    3. State of art
+    4. 5W’s & 1H and S.W.O.T analysis
 2. Requirements
     1. High level requirements
     2. Low level requirements
@@ -17,39 +18,40 @@
 
 # REQUIREMENTS
 ## i Description
- * This Project is an __Wiper control (WCS) system__,a wiper control system for an automotive wiper controls the operational speed of a wiper in accordance with rain conditions.It useful in the automotive unit the main purpose of the system is to clean the windscreen sufficiently to provide suitable visibility at all times.
+*This Project is an __Wiper control (WCS) system__,a wiper control system for an automotive wiper controls the operational speed of a wiper in accordance with rain conditions.It useful in the automotive unit the main purpose of the system is to clean the windscreen sufficiently to provide suitable visibility at all times.
 
 ---
 
 ## ii Identifying features
- * When the button is pressed once the car will start (__Ignition key postion at ACC__)
- * When the button is pressed again the wiper will start(__Wiper On__)
- * When the button is pressed again the wiper will off(__Wiper Off__)
- * When the button is pressed thrice the car will stop(__Ignition key position at Lock__)
+*When the button is pressed once the car will start (__Ignition key postion at ACC__)
+*When the button is pressed again the wiper will start(__Wiper On__)
+*When the button is pressed again the wiper will off(__Wiper Off__)
+*When the button is pressed thrice the car will stop(__Ignition key position at Lock__)
 
 ## iii State of art
- * The main focus point is seeing the wiper control of the car.
- * And also seeing the seep of the wiper system in the car
- * Now this two features are explained in these project
+*The main focus point is seeing the wiper control of the car.
+*And also seeing the seep of the wiper system in the car
+*Now this two features are explained in these project
+
 ---
 ## iv 5W's & 1H and S.W.O.T analysis is in the below table 
 
 | 5W's & 1H | 
 
-*__What__  -- wiper control system (WCS)
+*What  -- wiper control system (WCS)
 
-*__Where__ --Inside and out side the car
+*Where --Inside and out side the car
 
-*__When__  --When the weather condition is bad (like in rain and snow) the wiper is activate and clean the car window
+*When  --When the weather condition is bad (like in rain and snow) the wiper is activate and clean the car window
 
-*__Who__   --Who is driving or controlling the car
+*Who   --Who is driving or controlling the car
 
-*__How__   --By using STM like by multiple pushes on a button
+*How   --By using STM like by multiple pushes on a button
 
 
 | S.W.O.T ANALYSIS |
 
-__Strengths__ 
+Strengths 
 
 *No human interaction with car
 
@@ -57,7 +59,7 @@ __Strengths__
 
 *encryption in data
 
-__Weaknesses__
+Weaknesses
 
 *Unable to monitor status of car
 
@@ -65,7 +67,7 @@ __Weaknesses__
 
 *Wait for certain time after every command to press new command 
 
-__Opportunities__
+Opportunities
 
 *The Scope of this sytem is huge in car control
 
@@ -73,7 +75,7 @@ __Opportunities__
 
 *Less cost
 
-__Threats__
+Threats
 
 *When new command is given without completing the current command it will not take current command
 
@@ -149,5 +151,5 @@ __Threats__
 | 04 | Check for Wiper off | USER BUTTON PRESS FOUR TIMES | Shall Off 3 LED's once anti-clockwise as per timers |  Shall off 3 LED's once anti-clockwise as per timers | ✅ |
 | 015 | Check for Stop | USER BUTTON PRESS FIVTH TIME  | RED LED will be off | RED LED will be off | ✅ |
 | 06 | Check for ENCRYPTION | 1/2/3/4  | 1244/1843/6789/5478 | 1244/1843/6789/5478 | ✅ |
-| 07 | Check for btn_press() | counts no of button press  | 1/2/3/4/5 | 1/2/3/4/5 | ✅ |
+  
 
