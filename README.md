@@ -22,28 +22,37 @@
 | 5W's & 1H | 
 
 *What  -- wiper control system (WCS)
+
 *Where --Inside and out side the car
+
 *When  --When the weather condition is bad (like in rain and snow) the wiper is activate and clean the car window
+
 *Who   --Who is driving or controlling the car
+
 *How   --By using STM like by multiple pushes on a button
 
 | S.W.O.T ANALYSIS |
+
 Strengths
+
 *No human interaction with car
 *Manages all commands with one key automatically
 *encryption in data
 
 Weaknesses
+
 *Unable to monitor status of car
 *Range is limited
 *Wait for certain time after every command to press new command 
 
 Opportunities
+
 *The Scope of this sytem is huge in car control
 *can be used where  the car need thesed command
 *Less cost
 
 Threats
+
 *When new command is given without completing the current command it will not take current command 
 
 # Test plan and output 
