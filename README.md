@@ -1,6 +1,3 @@
-
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/7a680067623540658f38670e59d5b1d4)](https://www.codacy.com/gh/sandhya0711/m3_wiper-control-system-wcs-/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sandhya0711/m3_wiper-control-system-wcs-&amp;utm_campaign=Badge_Grade)
-
 # Requriments
 
 #  About the project WCS
@@ -10,7 +7,7 @@
 ---
 
 ## Identifying features
- * When the button is pressed once the car will start (__Ignition key postion at ACC__)
+ * When the button is pressed once the car will start(__Ignition key postion at ACC__)
  * When the button is pressed again the wiper will start(__Wiper On__)
  * When the button is pressed again the wiper will off(__Wiper Off__)
  * When the button is pressed thrice the car will stop(__Ignition key position at Lock__)
@@ -22,36 +19,31 @@
 
 ---
 ## 5W's & 1H and S.W.O.T analysis is in the below table 
-
 | 5W's & 1H | 
 
-*__What__  -- wiper control system (WCS)
-*__Where__ --Inside and out side the car
-*__When__  --When the weather condition is bad (like in rain and snow) the wiper is activate and clean the car window
-*__Who__   --Who is driving or controlling the car
-*__How__   --By using STM like by multiple pushes on a button
+*What  -- wiper control system (WCS)
+*Where --Inside and out side the car
+*When  --When the weather condition is bad (like in rain and snow) the wiper is activate and clean the car window
+*Who   --Who is driving or controlling the car
+*How   --By using STM like by multiple pushes on a button
 
 | S.W.O.T ANALYSIS |
-__Strengths__ 
-
+Strengths
 *No human interaction with car
 *Manages all commands with one key automatically
 *encryption in data
 
-__Weaknesses__
-
+Weaknesses
 *Unable to monitor status of car
 *Range is limited
 *Wait for certain time after every command to press new command 
 
-__Opportunities__
-
+Opportunities
 *The Scope of this sytem is huge in car control
 *can be used where  the car need thesed command
 *Less cost
 
-__Threats__
-
+Threats
 *When new command is given without completing the current command it will not take current command 
 
 # Test plan and output 
@@ -59,9 +51,7 @@ https://github.com/sandhya0711/m3_wiper-control-system-wcs-/blob/e877965323a3724
 7_Output/OUTPUT SIMULATION.mp4
 
 ---
-
 ## Requirements
-
 
 ### High Level Requirements
 
