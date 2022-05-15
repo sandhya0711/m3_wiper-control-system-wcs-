@@ -2,10 +2,10 @@
 
 1.About the
 
-   1. Description
+     1. Description
      2. Identifying features
-      3. State of art
-        4. 5W’s & 1H and S.W.O.T analysis
+     3. State of art
+     4. 5W’s & 1H and S.W.O.T analysis
      
 2. Requirements
 
