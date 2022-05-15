@@ -128,8 +128,6 @@ Threats
 * ## ii Structural Diagram
 
 * ![UML](https://github.com/sandhya0711/m3_wiper-control-system-wcs-/blob/fe6d54c170e235e0351a75a4e16fdec9fbab9c5b/2_Architecture/STRUCTURAL%20DIAGRAM.png)
-* 
----
 
 # 4 Test plan and output
 
