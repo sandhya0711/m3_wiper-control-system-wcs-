@@ -1,3 +1,6 @@
+|codacy Badge|
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/7a680067623540658f38670e59d5b1d4)](https://www.codacy.com/gh/sandhya0711/m3_wiper-control-system-wcs-/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sandhya0711/m3_wiper-control-system-wcs-&amp;utm_campaign=Badge_Grade)
+
 # Requriments
 
 # About the project WCS
