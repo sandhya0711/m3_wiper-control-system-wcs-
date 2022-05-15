@@ -53,6 +53,10 @@ __Opportunities__
 __Threats__
 
 *When new command is given without completing the current command it will not take current command 
+
+# Test plan and output 
+https://github.com/sandhya0711/m3_wiper-control-system-wcs-/blob/e877965323a372422320a2b060c80178828b4dec/7_Output/OUTPUT%20SIMULATION.mp4
+
 ---
 
 ## Requirements
