@@ -95,7 +95,7 @@ int Encryption(int data)
 		return dta;
 	}
 	else if (data == encrypt3)
-	{int dta = 6000 + 789;
+	{int dta = 4000 + 789;
 		return dta;
 	}
 	else if (data == encrypt4)
