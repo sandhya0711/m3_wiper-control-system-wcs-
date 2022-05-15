@@ -1,10 +1,10 @@
 # Table of content 
 
 1. About the 
-    1.  Description
-     2.  Identifying features
-     3.  State of art
-     4.  5W’s & 1H and S.W.O.T analysis
+     1. Description
+     2. Identifying features
+     3. State of art
+     4. 5W’s & 1H and S.W.O.T analysis
 2. Requirements
     1. High level requirements
      2. Low level requirements
@@ -34,6 +34,7 @@
 *Now this two features are explained in these project
 
 ---
+
 ## iv 5W's & 1H and S.W.O.T analysis is in the below table 
 
 | 5W's & 1H | 
@@ -79,11 +80,9 @@ Threats
 
 *When new command is given without completing the current command it will not take current command
 
-
 ---
 
 ## 2 Requirements
-
 ### High Level Requirements
 
 | ID | High Level Requirements |
@@ -118,20 +117,23 @@ Threats
 | LLR5.1 | If the User Button is pressed FIVTH times, the red LED will be off |
 
 
-
 # 3 Architecture
 
-* ##  i Behavioral Diagram
+## i Behavioral Diagram
+
 
 *  ![BD](https://github.com/sandhya0711/m3_wiper-control-system-wcs-/blob/fe6d54c170e235e0351a75a4e16fdec9fbab9c5b/2_Architecture/BEHAVIORAL%20DIAGRAM.png)
     
-* ## ii Structural Diagram
+## ii Structural Diagram
+
 
 * ![UML](https://github.com/sandhya0711/m3_wiper-control-system-wcs-/blob/fe6d54c170e235e0351a75a4e16fdec9fbab9c5b/2_Architecture/STRUCTURAL%20DIAGRAM.png)
 
 # 4 Test plan and output
 
+
 ## HIGH LEVEL TEST PLAN
+
 
 | Test ID | Description | Input | Expected output | Actual Output | 
 | --- | --- | --- | --- | --- | 
@@ -142,8 +144,8 @@ Threats
 | 05 |  STOP | USER BUTTON PRESS FIVTH TIME | Stop the car | Stop the car |
 | 06 |  ENCRYPTION | 1 OR 2 0R 3 0R 4 | encrypted data for 1/2/3/4 | encrypted data for 1/2/3/4 |
 
-
 ## LOW LEVEL TEST PLAN
+
 
 | Test ID | Description | Input | Expected output | Actual Output | passed/not |
 | --- | --- | --- | --- | --- | --- |
