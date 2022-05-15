@@ -135,7 +135,7 @@ int main(void)
 			wiperon();
 			btncnt = 0;
 		}
-		else if (encrypredData == 6789)
+		else if (encrypredData == 4789)
 		{ 
 			wiperspeedwhenon();
             btncnt = 0;
