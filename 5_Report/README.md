@@ -9,16 +9,19 @@
      
      
      
- 2. Requirements
+ 
+2. Requirements
 
-
-    1. High level requirements
+  
+  1. High level requirements
+  
    
-   
-      2. Low level requirements
+    2. Low level requirements
+    
      
      
  3. Architecture
+ 
 
 
     1. Behavioural Diagram
@@ -28,6 +31,7 @@
      
      
  4. Test plan and Output
+ 
 
 
     1. High level test plan
