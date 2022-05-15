@@ -7,7 +7,7 @@
 ---
 
 ## Identifying features
- * When the button is pressed once the car will start (__Ignition key postion at ACC__)
+ * When the button is pressed once the car will start(__Ignition key postion at ACC__)
  * When the button is pressed again the wiper will start(__Wiper On__)
  * When the button is pressed again the wiper will off(__Wiper Off__)
  * When the button is pressed thrice the car will stop(__Ignition key position at Lock__)
@@ -21,45 +21,39 @@
 ## 5W's & 1H and S.W.O.T analysis is in the below table 
 
 # | 5W's & 1H | 
-*__What__   
+*What   
 -- wiper control system (WCS) 
 
-*__Where__ 
+*Where
 --Inside and out side the car 
 
-*__When__   
+*When  
 --When the weather condition is bad (like in rain and snow) the wiper is activate and clean the car window 
 
-*__Who__  
+*Who  
 --Who is driving or controlling the car 
 
-*__How__   
+*How   
 --By using STM like by multiple pushes on a button
 
 # | S.W.O.T ANALYSIS | 
-
-__Strengths__ 
-
+  Strengths 
 * No human interaction with car
 * Manages all commands with one key automatically
 * encryption in data
-__Weaknesses__
-
+ Weaknesses
 * Unable to monitor status of car
 * Range is limited
 * Wait for certain time after every command to press new command 
-__Opportunities__
-
+Opportunities
 * The Scope of this sytem is huge in car control
 * can be used where  the car need thesed command
 * Less cost
-__Threats__
-
+Threats
 * When new command is given without completing the current command it will not take current command 
 ---
 
 ## Requirements
-
 
 ### High Level Requirements
 
