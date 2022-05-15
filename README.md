@@ -56,6 +56,7 @@ __Threats__
 
 # Test plan and output 
 https://github.com/sandhya0711/m3_wiper-control-system-wcs-/blob/e877965323a372422320a2b060c80178828b4dec/7_Output/OUTPUT%20SIMULATION.mp4
+7_Output/OUTPUT SIMULATION.mp4
 
 ---
 
