@@ -24,5 +24,3 @@
 | 04 | Check for Wiper off | USER BUTTON PRESS FOUR TIMES | Shall Off 3 LED's once anti-clockwise as per timers |  Shall off 3 LED's once anti-clockwise as per timers | ✅ |
 | 015 | Check for Stop | USER BUTTON PRESS FIVTH TIME  | RED LED will be off | RED LED will be off | ✅ |
 | 06 | Check for ENCRYPTION | 1/2/3/4  | 1244/1843/6789/5478 | 1244/1843/6789/5478 | ✅ |
-| 07 | Check for btn_press() | counts no of button press  | 1/2/3/4/5 | 1/2/3/4/5 | ✅ |
-
