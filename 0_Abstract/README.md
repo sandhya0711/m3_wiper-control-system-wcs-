@@ -3,5 +3,4 @@
 
 Here when the user start the car it is in ACC position , and the weather is changed might be rain or snow then the wiper of the car will be activate/on by the user. And the rain condition is high then the speed of the wiper will be high.As per these the weather condition is normal then the wiper will be deactivate/off by the user and then the car will be stop.These will be the wiper control system (WCS) project.
 
-
 For these project we are using STM32 microcontroller as a LED blinking process as when RED LED on the car will be start,when other three LEDS blink on after another like GREEN on and off next BLUE on and off and next ORANGE on and off it means the wiper wii be on in clockwise manner and next by timers we incerese the speed of the LEDS and then in anticlock wise manner we will off the wiper and then the RED LED off means the car will be stop.By these manner our project will go.
