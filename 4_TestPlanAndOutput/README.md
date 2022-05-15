@@ -14,7 +14,6 @@
 | 06 |  ENCRYPTION | 1 OR 2 0R 3 0R 4 | encrypted data for 1/2/3/4 | encrypted data for 1/2/3/4 |
 
 ## LOW LEVEL TEST PLAN
-
 | Test ID (for LOCK)| Description | Input | Expected output | Actual Output | passed/not |
 | --- | --- | --- | --- | --- | --- |
 | 01 | Check for Start | USER BUTTON PRESS ONCE  | RED LED will be on | RED LED will be on | ✅ |
