@@ -2,18 +2,18 @@
 
 1. About the 
      1.  Description
-     2.  Identifying features
-     3.  State of art
-     4.  5W’s & 1H and S.W.O.T analysis
+      2.  Identifying features
+        3.  State of art
+          4.  5W’s & 1H and S.W.O.T analysis
 2. Requirements
     1. High level requirements
-    2. Low level requirements
+     2. Low level requirements
 3. Architecture
     1. Behavioural Diagram
-    2. Structural Diagram
+     2. Structural Diagram
 4. Test plan and Output
     1. High level test plan
-    2. Low level test plan
+     2. Low level test plan
 
 
 # REQUIREMENTS
@@ -23,7 +23,7 @@
 ---
 
 ## ii Identifying features
-*When the button is pressed once the car will start (__Ignition key postion at ACC__)
+*When the button is pressed once the car will start(__Ignition key postion at ACC__)
 *When the button is pressed again the wiper will start(__Wiper On__)
 *When the button is pressed again the wiper will off(__Wiper Off__)
 *When the button is pressed thrice the car will stop(__Ignition key position at Lock__)
