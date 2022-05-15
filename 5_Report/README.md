@@ -1,17 +1,17 @@
 # Table of content 
 
-1. About the
- 
-    1. Description
-    2. Identifying features
-    3. State of art
-    4. 5W’s & 1H and S.W.O.T analysis
+1.About the
+
+   1. Description
+     2. Identifying features
+      3. State of art
+        4. 5W’s & 1H and S.W.O.T analysis
      
 2. Requirements
 
-   1. High level requirements
-   2. Low level requirements
-   
+    1. High level requirements
+     2. Low level requirements
+    
 3. Architecture
 
     1. Behavioural Diagram
@@ -41,7 +41,6 @@
 *Now this two features are explained in these project
 
 ---
-
 ## iv 5W's & 1H and S.W.O.T analysis is in the below table 
 
 | 5W's & 1H | 
@@ -88,9 +87,8 @@ Threats
 *When new command is given without completing the current command it will not take current command
 
 ---
-
-## 2 Requirements
-### High Level Requirements
+# 2 Requirements
+## High Level Requirements
 
 | ID | High Level Requirements |
 | -------- | -------------- |
@@ -100,8 +98,7 @@ Threats
 | HLR4 | It will stop the wiper |
 | HLR5 | It will stop the car |
 
-
-### Low Level Requirements
+## Low Level Requirements
 
 | ID | Low Level Requirements for HLR1|     
 | ----- | ----- | 
@@ -137,7 +134,6 @@ Threats
 * ![UML](https://github.com/sandhya0711/m3_wiper-control-system-wcs-/blob/fe6d54c170e235e0351a75a4e16fdec9fbab9c5b/2_Architecture/STRUCTURAL%20DIAGRAM.png)
 
 # 4 Test plan and output
-
 
 ## HIGH LEVEL TEST PLAN
 
