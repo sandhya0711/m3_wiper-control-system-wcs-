@@ -12,13 +12,18 @@
 
 ## Identifying features
 *When the button is pressed once the car will start(__Ignition key postion at ACC__)
+
 *When the button is pressed again the wiper will start(__Wiper On__)
+
 *When the button is pressed again the wiper will off(__Wiper Off__)
+
 *When the button is pressed thrice the car will stop(__Ignition key position at Lock__)
 
 ## State of art
 *The main focus point is seeing the wiper control of the car.
+
 *And also seeing the seep of the wiper system in the car
+
 *Now this two features are explained in these project
 
 ---
