@@ -1,6 +1,6 @@
 # Test plan and output
 
-### Test plan is created and verified
+## Test plan is created and verified
 
 ## HIGH LEVEL TEST PLAN / Integrated test plan
 
