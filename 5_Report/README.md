@@ -8,21 +8,30 @@
      4. 5W’s & 1H and S.W.O.T analysis
      
      
+     
 2. Requirements
 
+
    1. High level requirements
+   
     
      2. Low level requirements
+     
     
 3. Architecture
 
+
    1. Behavioural Diagram
+   
     
      2. Structural Diagram
      
+     
 4. Test plan and Output
 
+
    1. High level test plan
+   
     
      2. Low level test plan
 
@@ -131,9 +140,12 @@ Threats
 
 ## i Behavioral Diagram
 
+
 *  ![BD](https://github.com/sandhya0711/m3_wiper-control-system-wcs-/blob/fe6d54c170e235e0351a75a4e16fdec9fbab9c5b/2_Architecture/BEHAVIORAL%20DIAGRAM.png)
     
 ## ii Structural Diagram
+
+
 
 * ![UML](https://github.com/sandhya0711/m3_wiper-control-system-wcs-/blob/fe6d54c170e235e0351a75a4e16fdec9fbab9c5b/2_Architecture/STRUCTURAL%20DIAGRAM.png)
 
