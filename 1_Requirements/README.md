@@ -2,7 +2,7 @@
 
 #  About the project WCS
 ## Description
- * This Project is an __Wiper control (WCS) system__,a wiper control system for an automotive wiper controls the operational speed of a wiper in accordance with rain conditions.It useful in the automotive unit the main purpose of the system is to clean the windscreen sufficiently to provide suitable visibility at all times.
+* This Project is an __Wiper control (WCS) system__,a wiper control system for an automotive wiper controls the operational speed of a wiper in accordance with rain conditions.It useful in the automotive unit the main purpose of the system is to clean the windscreen sufficiently to provide suitable visibility at all times.
 
 ---
 
@@ -21,23 +21,18 @@
 ## 5W's & 1H and S.W.O.T analysis is in the below table 
 
 # | 5W's & 1H | 
-*What   
--- wiper control system (WCS) 
+*What -- wiper control system (WCS) 
 
-*Where
---Inside and out side the car 
+*Where--Inside and out side the car 
 
-*When  
---When the weather condition is bad (like in rain and snow) the wiper is activate and clean the car window 
+*When--When the weather condition is bad (like in rain and snow) the wiper is activate and clean the car window 
 
-*Who  
---Who is driving or controlling the car 
+*Who--Who is driving or controlling the car 
 
-*How   
---By using STM like by multiple pushes on a button
+*How--By using STM like by multiple pushes on a button
 
 # | S.W.O.T ANALYSIS | 
-  Strengths 
+Strengths 
 * No human interaction with car
 * Manages all commands with one key automatically
 * encryption in data
@@ -57,6 +52,7 @@ Threats
 
 ### High Level Requirements
 
+
 | ID | High Level Requirements |
 | -------- | -------------- |
 | HLR1 | It will start the car|
@@ -67,6 +63,7 @@ Threats
 
 
 ### Low Level Requirements
+
 
 | ID | Low Level Requirements for HLR1|     
 | ----- | ----- | 
